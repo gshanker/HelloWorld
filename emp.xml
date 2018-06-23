@@ -1,9 +1,13 @@
 <Emp> 
 <name>John </name>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <age>12 </age>
 =======
 
 >>>>>>> parent of 505c3d1... updated xml
+=======
+
+>>>>>>> parent of 8fa648e... Updated XML2
 
 </Emp>
